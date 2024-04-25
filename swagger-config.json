@@ -1,0 +1,6 @@
+{
+  "url": "openapi_spec/webtrit_core_v1.json",
+  "deepLinking": true,
+  "displayOperationId": true,
+  "defaultModelExpandDepth": 3
+}
